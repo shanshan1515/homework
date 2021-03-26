@@ -1,10 +1,8 @@
 import pytest
 import yaml
-# sys.path.append("../..")
-# test
-# from works.第三次脚本作业.calculator import calculator
-# from homework.third.calculator import calculator
-from homework.third.calculator import calculator
+
+
+from third.calculator import calculator
 
 
 def setup_module():
