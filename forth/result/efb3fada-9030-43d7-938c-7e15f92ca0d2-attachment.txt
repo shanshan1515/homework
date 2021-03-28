@@ -1,0 +1,4 @@
+发生错误 unsupported operand type(s) for /: 'str' and 'int'
+assert 0 == 2
+ +  where 0 = <bound method calculator.divsion of <third.calculator.calculator object at 0x000001DA7A7AF0A0>>('+', 2)
+ +    where <bound method calculator.divsion of <third.calculator.calculator object at 0x000001DA7A7AF0A0>> = <third.calculator.calculator object at 0x000001DA7A7AF0A0>.divsion

@@ -1,0 +1,4 @@
+发生错误 can only concatenate str (not "int") to str
+assert 0 == 2
+ +  where 0 = <bound method calculator.add of <third.calculator.calculator object at 0x000001DA7A7AF0A0>>('=', 1)
+ +    where <bound method calculator.add of <third.calculator.calculator object at 0x000001DA7A7AF0A0>> = <third.calculator.calculator object at 0x000001DA7A7AF0A0>.add

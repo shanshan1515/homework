@@ -1,0 +1,4 @@
+发生错误 type str doesn't define __round__ method
+assert 0 == 3
+ +  where 0 = <bound method calculator.add of <third.calculator.calculator object at 0x000001DA7A7AF0A0>>('hello', '你好')
+ +    where <bound method calculator.add of <third.calculator.calculator object at 0x000001DA7A7AF0A0>> = <third.calculator.calculator object at 0x000001DA7A7AF0A0>.add
